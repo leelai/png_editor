@@ -2,6 +2,12 @@
 
 A simple and elegant web-based PNG editor that automatically removes transparent edges from images, similar to the crop functionality in Paint.NET.
 
+## 🌐 Live Demo
+
+**[Try it now!](https://leelai.github.io/png_editor/)**
+
+> The app is hosted on GitHub Pages and runs entirely in your browser - no data is uploaded to any server.
+
 ## Features
 
 - 🖼️ **Auto-Crop Transparency**: Automatically detects and removes transparent borders from PNG images
